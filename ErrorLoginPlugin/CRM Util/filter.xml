@@ -1,0 +1,6 @@
+<filter>
+  <entities>    
+	<entity>contact</entity>
+	<entity>new_errorlog</entity>
+  </entities>
+</filter>
